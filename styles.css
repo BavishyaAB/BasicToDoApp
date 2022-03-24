@@ -1,0 +1,20 @@
+.appbody{
+    background-color: #9EC4EC;
+    border:1px solid transparent;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding:10px 25px 0px 25px;
+    color: white;
+    font-size: 1.25em;
+    font-weight: 600;
+    font-family:cursive;
+}
+.date{
+    text-align: center;
+}
+.addbtn:hover{
+    cursor: pointer;
+}
+.task:hover{
+    cursor: pointer;
+}
